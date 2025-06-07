@@ -1,0 +1,17 @@
+.env
+.DS_Store
+.memvid/
+output/
+prompt.memvid
+
+USAGE.md
+
+CLAUDE.md
+memvid_temp
+
+# Node build artifacts
+node_modules/
+dist/
+memvid_temp/frames_1749317370188/frame_001026.png
+data/
+
